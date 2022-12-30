@@ -1,0 +1,16 @@
+{
+  "required": true,
+  "package": "baguchan.animatic_title.mixin",
+  "compatibilityLevel": "JAVA_17",
+  "minVersion": "0.8",
+  "refmap": "animatic_title.refmap.json",
+  "mixins": [
+
+  ],
+  "client": [
+    "client.TitleScreenMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}
