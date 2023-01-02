@@ -19,7 +19,7 @@ mixin {
     add sourceSets.main, "animatic_title.refmap.json"
 }
 
-version = '1.19.3-1.0.0'
+version = '1.19.3-1.0.1'
 group = 'baguchan.animatic_title' // http://maven.apache.org/guides/mini/guide-naming-conventions.html
 archivesBaseName = 'Animatic Title'
 

@@ -53,6 +53,7 @@ public abstract class TitleScreenMixin extends Screen {
 	@Final
 	private static ResourceLocation MINECRAFT_EDITION;
 	@Nullable
+	@Shadow
 	private RealmsNotificationsScreen realmsNotificationsScreen;
 	@Shadow
 	@Final
